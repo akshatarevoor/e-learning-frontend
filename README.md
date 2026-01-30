@@ -26,7 +26,9 @@ After development, the project was documented in a README file outlining the pur
 
 Overall, this task provided hands-on experience in building a structured front-end application with multiple pages, embedded media, and interactive elements. It strengthened understanding of HTML page organization, CSS styling, JavaScript-based interactivity, and basic progress tracking. The E-Learning platform serves as a practical demonstration of front-end development skills and showcases the ability to design user-friendly interfaces suitable for internship-level projects.
 
-Output -
+Output - <img width="1891" height="925" alt="Image" src="https://github.com/user-attachments/assets/17a287e1-98a3-4aad-b415-daef03e567fc" />
+
+<img width="1888" height="924" alt="Image" src="https://github.com/user-attachments/assets/df967f33-ff79-43d7-94d9-c9286a7d827b" />
 
 
 
